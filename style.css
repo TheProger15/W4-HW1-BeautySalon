@@ -226,14 +226,12 @@ a {
 .cliente-foto-dois {
     background: #F1D9CF;
 }
-
 .pontos {
     display: flex;
     justify-content: center;
     gap: 8px;
     margin-top: 32px;
 }
-
 .pontos span {
     width: 8px;
     height: 8px;
@@ -244,18 +242,15 @@ a {
 .pontos span:first-child {
     background: #69B99D;
 }
-
 .contato {
     padding: 96px 0;
 }
-
 .contato-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 64px;
 }
-
 .contato-texto {
     width: 50%;
 }
@@ -283,7 +278,6 @@ a {
     background: #69B99D;
     padding: 48px 0;
 }
-
 .footer-content {
     display: flex;
     justify-content: space-between;
@@ -293,13 +287,11 @@ a {
 .logo-claro, .logo-claro span {
     color: white;
 }
-
 .footer p {
     color: white;
     font-size: 14px;
     margin-top: 8px;
 }
-
 .redes {
     display: flex;
     gap: 24px;
