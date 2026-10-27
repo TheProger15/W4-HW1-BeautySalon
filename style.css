@@ -309,11 +309,12 @@ a {
     }
     .header-content {
         padding: 22px 0;
+        justify-content: space-between;
         flex-direction: column;
         gap: 20px;
     }
     .menu-button{
-    display: block !important;
+    display: block; !important;
     }
     .menu {
         display: none;
