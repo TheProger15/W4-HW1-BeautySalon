@@ -31,16 +31,13 @@ h2 {
     line-height: 1.4;
     margin-bottom: 24px;
 }
-
 p {
     color: #767676;
     line-height: 1.7;
 }
-
 a {
     text-decoration: none;
 }
-
 .header {
     background: #F9F9F9;
     border-bottom: 1px solid #E4E4E4;
