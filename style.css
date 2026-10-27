@@ -3,28 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 html {
     scroll-behavior: smooth;
 }
-
 body {
     font-family: "DM Sans", Arial, sans-serif;
     color: #0F241D;
     background: #F9F9F9;
     font-size: 16px;
 }
-
 .container {
     width: 1120px;
     max-width: 90%;
     margin: 0 auto;
 }
-
 h1, h2, h3, .logo {
     font-family: "Poppins", Arial, sans-serif;
 }
-
 h1 {
     font-size: 36px;
     line-height: 1.35;
@@ -330,7 +325,6 @@ a {
     display: flex;
     gap: 24px;
 }
-
 .redes a {
     color: white;
     font-size: 24px;
@@ -342,78 +336,62 @@ a {
         width: 100%;
         max-width: 90%;
     }
-
     .header-content {
         padding: 22px 0;
         flex-direction: column;
         gap: 20px;
     }
-
     .menu-button{
     display: block;
     }
-
     .menu {
         display: none;
         justify-content: center;
         flex-wrap: wrap;
         gap: 14px 20px;
     }
-
     .menu a {
         font-size: 14px;
     }
-
     .inicio {
         padding: 40px 0 64px;
     }
-
     .inicio-content {
         flex-direction: column-reverse;
         gap: 36px;
     }
-
     .inicio-foto, .inicio-texto,
     .sobre-texto, .sobre-foto {
         width: 100%;
     }
-
     .inicio-texto {
         text-align: center;
     }
-
     h1 {
         font-size: 30px;
     }
-
     h2 {
         font-size: 26px;
     }
-
     .sobre, .servicos, .depoimentos, .contato {
         padding: 64px 0;
     }
-
     .sobre-content {
         flex-direction: column;
         gap: 32px;
     }
-
     .servicos-lista {
         flex-direction: column;
         gap: 24px;
     }
-
     .servico {
         width: 100%;
         padding: 36px 24px;
     }
-
     .depoimentos-lista {
         flex-direction: column;
         gap: 24px;
     }
-
     .depoimento {
         width: 100%;
         padding: 26px;
@@ -424,11 +402,9 @@ a {
         align-items: flex-start;
         gap: 36px;
     }
-
     .contato-texto, .contato-dados {
         width: 100%;
     }
-
     .footer-content {
         flex-direction: column;
         align-items: flex-start;
